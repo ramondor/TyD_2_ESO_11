@@ -194,7 +194,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="739527"></int>
+                  <int value="739539"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -208,7 +208,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_19286_2.6"></unicode>
+                <unicode value="0_19286_2.8"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -219,7 +219,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="fases-proceso-tecnologico.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpJGzlGP/fases-proceso-tecnologico.jpg"></string>
+                  <string value="/tmp/tmpLXKbr6/fases-proceso-tecnologico.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="fd706f53815ed92f745bb1a1da0961fc"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -248,7 +248,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="7"></int>
+           <int value="9"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -1377,7 +1377,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="739523"></int>
+                     <int value="739535"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1391,7 +1391,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19301_57_2.145"></unicode>
+                   <unicode value="19301_57_2.151"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="25">
                     <dictionary>
@@ -1402,7 +1402,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="garaje2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJGzlGP/garaje2.png"></string>
+                     <string value="/tmp/tmpLXKbr6/garaje2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="fe157ff4a18203848405bde2e589059f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1429,7 +1429,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="739524"></int>
+                     <int value="739536"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1443,7 +1443,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19301_57_2.146"></unicode>
+                   <unicode value="19301_57_2.152"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
@@ -1454,7 +1454,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="foto-puerta-p.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJGzlGP/foto-puerta-p.jpg"></string>
+                     <string value="/tmp/tmpLXKbr6/foto-puerta-p.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ddc84684bf8b673fd6b935978a8cbff6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1481,7 +1481,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="739526"></int>
+                     <int value="739538"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1495,7 +1495,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19301_57_2.147"></unicode>
+                   <unicode value="19301_57_2.153"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="27">
                     <dictionary>
@@ -1506,7 +1506,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="boceto1.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJGzlGP/boceto1.jpg"></string>
+                     <string value="/tmp/tmpLXKbr6/boceto1.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9776d24af7761528a8de5e8a7962cd35"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1535,7 +1535,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="148"></int>
+              <int value="154"></int>
               <string role="key" value="parentNode"></string>
               <reference key="24"></reference>
              </dictionary>
@@ -2048,7 +2048,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="DOCUPROYEC.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpJGzlGP/DOCUPROYEC.pdf"></string>
+                <string value="/tmp/tmpLXKbr6/DOCUPROYEC.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="95ac4ebf479420b3e0aec3f4ff3748af"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2578,7 +2578,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="739525"></int>
+                     <int value="739537"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2592,7 +2592,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_19296_2.4"></unicode>
+                   <unicode value="10_19296_2.6"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="46">
                     <dictionary>
@@ -2603,7 +2603,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Propuesta_Didactica_11.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJGzlGP/Propuesta_Didactica_11.png"></string>
+                     <string value="/tmp/tmpLXKbr6/Propuesta_Didactica_11.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c6cdf9a7ca3208c2e593b2cae3fb2a26"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2632,7 +2632,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="5"></int>
+              <int value="7"></int>
               <string role="key" value="parentNode"></string>
               <reference key="45"></reference>
              </dictionary>
@@ -3217,6 +3217,7 @@
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span&gt;Este recurso educativo abierto tiene &lt;/span&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/deed.es&quot; target=&quot;_blank&quot; title=&quot;Enlace a Creative Commons, abre en ventana nueva&quot; rel=&quot;noopener&quot;&gt;&lt;span&gt;licencia CC BY-SA&lt;/span&gt;&lt;/a&gt;&lt;span&gt;, por lo se puede utilizar, descargar, modificar y adaptar libremente, &lt;/span&gt;&lt;b&gt;siempre que se reconozca la autoría&lt;/b&gt;&lt;span&gt; del mismo y, en caso de modificarlo y publicar una nueva versión, &lt;/span&gt;&lt;b&gt;se licencie con la misma licencia CC BY-SA&lt;/b&gt;&lt;span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Todo el material utilizado para la elaboración del recurso es del banco de recursos del departamento de Tecnología del IES Astaroth o pertenecen a bancos de recursos libres tales como &lt;a href=&quot;https://www.freepik.es/&quot;&gt;FreePik&lt;/a&gt;, &lt;a href=&quot;https://www.pexels.com/es-es/&quot;&gt;Pexels&lt;/a&gt;, &lt;a href=&quot;https://pixabay.com/es/&quot;&gt;Pixabay&lt;/a&gt; o &lt;a href=&quot;https://www.flaticon.es/&quot;&gt;Flaticon&lt;/a&gt;, tal como se indican en cada una de ellas.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Para reconocer la autoría en caso de modificación del recurso se puede utilizar el siguiente texto:&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;i&gt;&lt;span&gt;Este material es una adaptación del recurso original &quot;Anteproyecto de nuestro Superproyecto TyD 2º ESO&quot; de J Ramón Dorado (&lt;a href=&quot;https://twitter.com/ramondor2&quot;&gt;@ramondor2&lt;/a&gt;)&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
